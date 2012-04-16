@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/jrauwer1/Downloads/mendeleydesktop-1.3.2-linux-x86_64/bin/
+./mendeleydesktop --force-bundled-qt
