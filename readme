@@ -2,5 +2,5 @@ test readme
 Hier kun je wat lezen .....
 En nog wat
 Nu ga ik de commit zonder staging testen met commit -a
-Deze verandering zijn dan weer in de master gemaakt
-En deze in de hotfix branch die uiteindelijk ook met de testing gemerged moeten worden. Maar deze hotfix kan ik aanbrengen omdat ik direct naar de productie terugkan.   
+Deze verandering moet in de 'testing-branch' komen
+en deze ook, er zou op enig moment een merge moeten komen met de master
