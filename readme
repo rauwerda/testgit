@@ -2,3 +2,4 @@ test readme
 Hier kun je wat lezen .....
 En nog wat
 Nu ga ik de commit zonder staging testen met commit -a
+Deze verandering moet in de 'testing-branch' komen
