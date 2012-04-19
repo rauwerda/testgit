@@ -3,3 +3,4 @@ Hier kun je wat lezen .....
 En nog wat
 Nu ga ik de commit zonder staging testen met commit -a
 Deze verandering moet in de 'testing-branch' komen
+en deze ook, er zou op enig moment een merge moeten komen met de master
